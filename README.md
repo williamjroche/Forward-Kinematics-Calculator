@@ -2,7 +2,7 @@
 
 Overview: 
 -------------------
-This is a python program that calculates the Transformation Matrices for a given table of link parameters.
+This is a python program that calculates the Transformation Matrices for a given dh table.
 
 Usage: 
 ------------------
