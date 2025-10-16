@@ -1,4 +1,4 @@
-# Forward-Kinematics-Calculator
+# Forward Kinematics Calculator
 
 Overview: 
 -------------------
