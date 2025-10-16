@@ -1,4 +1,4 @@
-# Forward-Kinematics-Transformation-Matrices-Calculator
+# Forward-Kinematics-Calculator
 
 Overview: 
 -------------------
